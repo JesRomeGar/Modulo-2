@@ -1,0 +1,84 @@
+.list-body {
+    display: flex;
+
+}
+
+.seleccion {
+    padding: 32px;
+    border-radius: 3px;
+    border: 3px solid #dcdcdc;
+    display: flex;
+    margin-bottom: 10px;
+    background-color: lightgrey;
+}
+
+.hotel-name {
+    width: 200px;
+    margin: auto;
+}
+
+#Foto {
+
+    width: 300px;
+    height: 200px;
+}
+
+.hotel-location {
+    width: 200px;
+    margin: auto;
+}
+
+.puntuacion-usuario {
+    padding: 32px;
+    border-radius: 3px;
+    border: 3px solid #dcdcdc;
+    margin-bottom: 10px;
+    background-color: lightgrey;
+    margin-left: 10px;
+}
+
+.puntos {
+    display: flex;
+}
+
+.puntuacion {
+    margin-right: 7px;
+}
+
+#estrellas {
+    margin: auto;
+}
+
+.tipo-reseña {
+    size: 20px;
+    margin: aufont-to;
+}
+
+.reseña {
+    display: flex;
+}
+
+#checkbox {
+    margin: auto;
+    width: 30px;
+    height: 30px;
+}
+
+.bs {
+    max-width: 50%;
+    width: 20px;
+    height: 20px;
+}
+
+.ws {
+    max-width: 50%;
+    width: 20px;
+    height: 20px;
+}
+
+.estrellas {
+    margin: auto;
+    max-width: 50%;
+    width: auto;
+    height: auto;
+}
